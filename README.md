@@ -1,4 +1,6 @@
-### Got curious about how computers work and decided to learn about it.
+## Nand to Tetris Course
+
+##### Got curious about how computers work and decided to learn about it.
 
 | Chip Name | Completed |
 |-----------|-----------|
