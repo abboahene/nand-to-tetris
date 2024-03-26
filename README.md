@@ -1,0 +1,1 @@
+Got curious about how computers work and decided to learn about it.
