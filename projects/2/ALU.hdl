@@ -56,7 +56,7 @@ CHIP ALU {
     Not16(in=fXY, out=notFXY);
     Mux16(a=fXY, b=notFXY, sel=no, 
         out[0..7]=negFXYHalf1, out[8..15]=negFXYHalf2, 
-        out[15]=ng, // check if letf-most bit is 1 for negative
+        out[15]=ng, // set ng to left-most bit
         out=out);
 
     // check if result is zero
@@ -64,7 +64,5 @@ CHIP ALU {
     Or8Way(in=negFXYHalf2, out=negFXYHalfSum2);
     Or(a=negFXYHalfSum1, b=negFXYHalfSum2, out=negFXYWholeSum);
     Not(in=negFXYWholeSum, out=zr);
-    
-    
     
 }

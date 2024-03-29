@@ -5,7 +5,7 @@
 | Chip Name | Completed |
 |-----------|-----------|
 | Project 1 | ✅        |
-| Project 2 | WIP       |
+| Project 2 | ✅        |
 | Project 3 | N/A       |
 | Project 4 | N/A        |
 | Project 5 | N/A        |
