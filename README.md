@@ -6,7 +6,7 @@
 |-----------|-----------|
 | Project 1 | ✅        |
 | Project 2 | ✅        |
-| Project 3 | N/A       |
+| Project 3 | WIP       |
 | Project 4 | N/A        |
 | Project 5 | N/A        |
 | Project 6 | N/A        |
