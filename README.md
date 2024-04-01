@@ -7,7 +7,7 @@
 | Project 1 | ✅        |
 | Project 2 | ✅        |
 | Project 3 | ✅        |
-| Project 4 | N/A        |
+| Project 4 | WIP        |
 | Project 5 | N/A        |
 | Project 6 | N/A        |
 | Project 7 | N/A        |
