@@ -2,7 +2,7 @@
 
 ##### Got curious about how computers work and decided to learn about it.
 
-| Chip Name | Completed |
+| Project Name | Completed |
 |-----------|-----------|
 | Project 1 | ✅        |
 | Project 2 | ✅        |
