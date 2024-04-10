@@ -8,4 +8,53 @@
 // i.e. writes "black" in every pixel. When no key is pressed, 
 // the screen should be cleared.
 
-//// Replace this comment with your code.
+
+(LOOP)
+
+    @SCREEN
+    D=A
+
+    @addr
+    M=D
+
+
+    (SLOOP)
+
+        @addr
+        D=M
+
+        @24576 //my approximate screen memory address give the hack screen size
+        D=D-A
+        @LOOP
+        D;JEQ
+
+        @KBD
+        D=M
+        @BLACK
+        D;JGT
+        @WHITE
+        D;JEQ
+
+        (BLACK)
+        @addr
+        A=M
+        M=-1
+        @CONT
+        0;JMP
+
+        (WHITE)
+        @addr
+        A=M
+        M=0
+        @CONT
+        0;JMP
+
+        (CONT)
+        @addr
+        M=M+1
+
+    @SLOOP
+    0;JMP
+
+@LOOP
+0;JMP
