@@ -10,7 +10,7 @@
 | Project 2 | ✅        |
 | Project 3 | ✅        |
 | Project 4 | ✅        |
-| Project 5 | N/A        |
+| Project 5 | WIP        |
 | Project 6 | N/A        |
 
 ### Part 2 (Software)

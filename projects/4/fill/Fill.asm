@@ -23,7 +23,7 @@
         @addr
         D=M
 
-        @24576 //my approximate screen memory address give the hack screen size
+        @24576 //my approximate screen memory address given the hack screen size
         D=D-A
         @LOOP
         D;JEQ
