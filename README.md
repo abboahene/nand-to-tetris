@@ -11,7 +11,7 @@
 | Project 3 | ✅        |
 | Project 4 | ✅        |
 | Project 5 | ✅        |
-| Project 6 | N/A        |
+| Project 6 | WIP      |
 
 ### Part 2 (Software)
 | Project Name | Completed |
