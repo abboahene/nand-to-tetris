@@ -3,7 +3,7 @@
 ##### Got curious about how computers work and decided to learn about it.
 
 
-### Part 1 (Hardware)
+### Hardware
 | Project Name | Completed |
 |-----------|-----------|
 | Project 1 | ✅        |
@@ -13,13 +13,3 @@
 | Project 5 | ✅        |
 | Project 6 | WIP      |
 
-### Part 2 (Software)
-| Project Name | Completed |
-|-----------|-----------|
-| Project 7 | N/A        |
-| Project 8 | N/A        |
-| Project 9 | N/A        |
-| Project 10 | N/A       |
-| Project 11 | N/A       |
-| Project 12 | N/A       |
-| Project 13 | N/A       |
